@@ -28,5 +28,5 @@ Para ejecutar correctamente este programa, necesitas:
 
 1. Descarga o clona el repositorio desde GitHub:
    ```bash
-   git clone https://github.com/usuario/nombre-del-repositorio.git
+   git clone https://github.com/MaynorUMG/Proyecto_Final_Algoritmo
 
